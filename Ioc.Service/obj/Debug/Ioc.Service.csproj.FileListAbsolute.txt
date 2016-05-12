@@ -1,0 +1,10 @@
+D:\Projects\TestProjects\CurdOperation\CurdOperation\Ioc.Service\bin\Debug\Ioc.Service.dll
+D:\Projects\TestProjects\CurdOperation\CurdOperation\Ioc.Service\bin\Debug\Ioc.Service.pdb
+D:\Projects\TestProjects\CurdOperation\CurdOperation\Ioc.Service\bin\Debug\Ioc.Core.dll
+D:\Projects\TestProjects\CurdOperation\CurdOperation\Ioc.Service\bin\Debug\Ioc.Data.dll
+D:\Projects\TestProjects\CurdOperation\CurdOperation\Ioc.Service\bin\Debug\EntityFramework.dll
+D:\Projects\TestProjects\CurdOperation\CurdOperation\Ioc.Service\bin\Debug\Ioc.Core.pdb
+D:\Projects\TestProjects\CurdOperation\CurdOperation\Ioc.Service\bin\Debug\Ioc.Data.pdb
+D:\Projects\TestProjects\CurdOperation\CurdOperation\Ioc.Service\obj\Debug\Ioc.Service.csprojResolveAssemblyReference.cache
+D:\Projects\TestProjects\CurdOperation\CurdOperation\Ioc.Service\obj\Debug\Ioc.Service.dll
+D:\Projects\TestProjects\CurdOperation\CurdOperation\Ioc.Service\obj\Debug\Ioc.Service.pdb

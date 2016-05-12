@@ -1,0 +1,8 @@
+D:\Projects\TestProjects\CurdOperation\CurdOperation\Ioc.Data\bin\Debug\Ioc.Data.dll.config
+D:\Projects\TestProjects\CurdOperation\CurdOperation\Ioc.Data\bin\Debug\Ioc.Data.dll
+D:\Projects\TestProjects\CurdOperation\CurdOperation\Ioc.Data\bin\Debug\Ioc.Data.pdb
+D:\Projects\TestProjects\CurdOperation\CurdOperation\Ioc.Data\bin\Debug\Ioc.Core.dll
+D:\Projects\TestProjects\CurdOperation\CurdOperation\Ioc.Data\bin\Debug\Ioc.Core.pdb
+D:\Projects\TestProjects\CurdOperation\CurdOperation\Ioc.Data\obj\Debug\Ioc.Data.csprojResolveAssemblyReference.cache
+D:\Projects\TestProjects\CurdOperation\CurdOperation\Ioc.Data\obj\Debug\Ioc.Data.dll
+D:\Projects\TestProjects\CurdOperation\CurdOperation\Ioc.Data\obj\Debug\Ioc.Data.pdb

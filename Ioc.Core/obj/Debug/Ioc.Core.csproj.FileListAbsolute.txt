@@ -1,0 +1,4 @@
+D:\Projects\TestProjects\CurdOperation\CurdOperation\Ioc.Core\bin\Debug\Ioc.Core.dll
+D:\Projects\TestProjects\CurdOperation\CurdOperation\Ioc.Core\bin\Debug\Ioc.Core.pdb
+D:\Projects\TestProjects\CurdOperation\CurdOperation\Ioc.Core\obj\Debug\Ioc.Core.dll
+D:\Projects\TestProjects\CurdOperation\CurdOperation\Ioc.Core\obj\Debug\Ioc.Core.pdb

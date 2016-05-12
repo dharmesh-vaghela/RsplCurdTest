@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "IocNinject", "http://localhost:63435", "{588FFA8F-9D8A-441E-8E6B-E22B46CC7414}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_63435"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Projects\TestProjects\CurdOperation\CurdOperation\IocNinject\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63435\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_63435"
+		Release.AspNetCompiler.PhysicalPath = "D:\Projects\TestProjects\CurdOperation\CurdOperation\IocNinject\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63435\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "D:\Projects\TestProjects\CurdOperation\CurdOperation\IocNinject\"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ioc.Core", "Ioc.Core\Ioc.Core.csproj", "{624694D1-4A1E-42E2-8E9A-BC8A522981D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ioc.Data", "Ioc.Data\Ioc.Data.csproj", "{6253301F-739C-4170-8D2D-C8FE7F04A13E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ioc.Service", "Ioc.Service\Ioc.Service.csproj", "{34A3A171-1481-4888-9FDF-8D5723EE1B37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{588FFA8F-9D8A-441E-8E6B-E22B46CC7414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{588FFA8F-9D8A-441E-8E6B-E22B46CC7414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{588FFA8F-9D8A-441E-8E6B-E22B46CC7414}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{588FFA8F-9D8A-441E-8E6B-E22B46CC7414}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{624694D1-4A1E-42E2-8E9A-BC8A522981D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{624694D1-4A1E-42E2-8E9A-BC8A522981D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{624694D1-4A1E-42E2-8E9A-BC8A522981D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{624694D1-4A1E-42E2-8E9A-BC8A522981D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6253301F-739C-4170-8D2D-C8FE7F04A13E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6253301F-739C-4170-8D2D-C8FE7F04A13E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6253301F-739C-4170-8D2D-C8FE7F04A13E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6253301F-739C-4170-8D2D-C8FE7F04A13E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34A3A171-1481-4888-9FDF-8D5723EE1B37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34A3A171-1481-4888-9FDF-8D5723EE1B37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34A3A171-1481-4888-9FDF-8D5723EE1B37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34A3A171-1481-4888-9FDF-8D5723EE1B37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
